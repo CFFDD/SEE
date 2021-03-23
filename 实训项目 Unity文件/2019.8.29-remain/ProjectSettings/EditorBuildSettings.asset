@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0-begin.unity
+    guid: 8b636dd4771a2c341a56ffe80fd904ac
+  - enabled: 1
+    path: Assets/Scenes/1-bubble.unity
+    guid: d278a87dd5ec5584fb26c876cbb5ce52
+  - enabled: 1
+    path: Assets/Scenes/2-maze.unity
+    guid: 1f538faf7b05dc8468c61887630b2f7d
+  - enabled: 1
+    path: Assets/Scenes/3-cube1.whiteboard.unity
+    guid: 3655bd946c23f9643a8a8346fb8ed4d0
+  - enabled: 1
+    path: Assets/Scenes/4-cube2.cake.unity
+    guid: 3f52200a95cff1c4687cf2754fe73621
+  - enabled: 1
+    path: Assets/Scenes/5-cube3.computer.unity
+    guid: 1221a0dd475214a4b82f6ff065033456
+  - enabled: 1
+    path: Assets/Scenes/6-cube4.car.unity
+    guid: 9c07c814dda8e6940878724edbde8ed4
+  - enabled: 1
+    path: Assets/Scenes/7-end.unity
+    guid: fe6227016343946dfb74b9c8ae7ea96c
+  - enabled: 1
+    path: Assets/Scenes/8-maze2.unity
+    guid: b984705df04cade449b04a1134dab38f
+  - enabled: 1
+    path: Assets/Scenes/9-maze3.unity
+    guid: f1f2350943a26a2409d9e3144905a5bf
+  - enabled: 1
+    path: Assets/Scenes/10-maze4.unity
+    guid: fbdd33a2535896f42a1942d179f297cf
+  m_configObjects: {}
